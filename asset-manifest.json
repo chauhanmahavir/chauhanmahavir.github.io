@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ddec7a5.css",
+    "main.js": "/static/js/main.60c24e72.js",
+    "static/media/suit.png": "/static/media/suit.0b523641f7d7ee985eef.png",
+    "static/media/logo.png": "/static/media/logo.56a46cec389a2907637c.png",
+    "static/media/Mahaveersinh Chauhan Resume.pdf": "/static/media/Mahaveersinh Chauhan Resume.2e4749125ca51cf90c2a.pdf",
+    "static/media/aboutme.jpeg": "/static/media/aboutme.ed5323282ed6df90686a.jpeg",
+    "index.html": "/index.html",
+    "static/media/close.svg": "/static/media/close.a591c5268e7cbcfeb569c6afea5745fc.svg",
+    "static/media/open.svg": "/static/media/open.e6bd41ec79183186fdb132e92b58c1de.svg",
+    "main.5ddec7a5.css.map": "/static/css/main.5ddec7a5.css.map",
+    "main.60c24e72.js.map": "/static/js/main.60c24e72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ddec7a5.css",
+    "static/js/main.60c24e72.js"
+  ]
+}
